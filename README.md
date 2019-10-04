@@ -1,5 +1,6 @@
 # GoogleWiki
 Once Sections have been made create a branch indicating your name and state on here (The README.md file) what your doing.
+ALSO CREATE NEW BRANCH STATING YOUR AREA
 
 Home page - 
 History -
