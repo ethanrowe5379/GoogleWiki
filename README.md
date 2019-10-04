@@ -3,10 +3,15 @@ Once Sections have been made create a branch indicating your name and state on h
 ALSO CREATE NEW BRANCH STATING YOUR AREA
 
 Home page - 
+
 History -
+
 Products And Services -
+
 Corporate Affairs -
+
 Corporate Affairs -
+
 Criticism and Controversy - 
 
 /* 
