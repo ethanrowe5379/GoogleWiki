@@ -1,0 +1,4 @@
+Google data centers are located in North and South America, Asia, and Europe.[236] There is no official data on the number of servers in Google data centers; however, research and advisory firm Gartner estimated in a July 2016 report that Google at the time had 2.5 million servers.[237] Traditionally, Google relied on parallel computing on commodity hardware like mainstream x86 computers (similar to home PCs) to keep costs per query low.[238][239][240] In 2005, it started developing its own designs, which were only revealed in 2009.[240]
+
+In the late 2010s, Google began to build its own private submarine communications cables. The first, named Curie, connects California with Chile and is to be completed in 2019.[241] The second fully Google-owned undersea cable, named Dunant, connects the United States with France and is planned to begin operation in 2020.[242]
+
