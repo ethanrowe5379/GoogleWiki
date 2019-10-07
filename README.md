@@ -12,8 +12,8 @@ Corporate Affairs -
 
 Criticism and Controversy - 
 
-/* 
-There is two "Corporate Affairs because the ammount of content 
-Whoever picks this please split the content into managable but also relevant groups
-ALSO TAKE PICTURES FROM THE WIKI FROM YOUR REPSECTED AREA'S
+/*
+There are two "Corporate Affairs because the amount of content
+Whoever picks this please split the content into manageable but also relevant groups
+ALSO TAKE PICTURES FROM THE WIKI FROM YOUR RESPECTIVE AREAS
 */
