@@ -10,7 +10,7 @@ Corporate Affairs -
 
 Corporate Affairs -
 
-Criticism and Controversy - 
+Criticism and Controversy - Andrew Harley
 
 /*
 There are two "Corporate Affairs because the amount of content
