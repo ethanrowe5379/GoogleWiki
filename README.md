@@ -2,13 +2,11 @@
 Once Sections have been made create a branch indicating your name and state on here (The README.md file) what your doing.
 ALSO CREATE NEW BRANCH STATING YOUR AREA
 
-History -
+History - Jack Wier
 
-Products And Services -
+Products And Services - Alessandro Cavicchioli
 
-Corporate Affairs -
-
-Corporate Affairs -
+Corporate Affairs - Ethan Rowe, Lucas Khan
 
 Criticism and Controversy - Andrew Harley
 
