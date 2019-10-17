@@ -6,12 +6,17 @@ body{
 
 header{
     font-size: 20px;
-    font-weight:bold;
+    font-weight: bold;
 }
 
 main{
-    margin:auto;
-    width:60%;
+    margin: auto;
+    width: 60%;
+}
+
+section{
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 img{
@@ -19,7 +24,7 @@ img{
 }
 
 .sectionText p{
-    width:80%;
+    width: 80%;
     float: left;
 }
 
