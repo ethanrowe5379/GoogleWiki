@@ -18,6 +18,11 @@ img{
     margin-right:10px;
 }
 
+footer{
+    padding:10px;
+    font-size: 20px;
+}
+
 #sectionText{
     width:80%;
     float: left;
