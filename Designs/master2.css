@@ -29,6 +29,13 @@ h1{
 /*
  * 200% = default size for h2
  */
-h2{
-  font-size: 200%
+
+.MoreAbout{
+  margin-top: 2px;
+  margin-bottom: 10px;
+  border-bottom: solid;
+  border-top: solid;
+  border-width: thin;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
