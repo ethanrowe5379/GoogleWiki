@@ -9,6 +9,10 @@
     float:left;
 }
 
+#googleLogo{
+   max-width:15%;
+}
+
 #googlePlex{
     width:100%;
     margin-top: 60%;
@@ -23,7 +27,7 @@ article{
     margin-top:20px;
 }
 
-#googleLogo{
+#googleIcon{
     max-width:40%;
     margin:25%;
 }
