@@ -39,3 +39,7 @@ h1{
   padding-top: 10px;
   padding-bottom: 10px;
 }
+
+.PageLink{
+  color: inherit;
+}
