@@ -5,14 +5,14 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="../master2.css">
     <title>Design</title>
 </head>
 
 <body>
     <header>
         <nav class="navbar navbar-expand navbar-light bg-light">
-            <img src="googleLogo.png" height="40px">
+            <img src="../googleLogo.png" height="40px">
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -36,13 +36,26 @@
     </header>
 
     <main>
-        <section>
-            <h1>Section Header</h1>
-            <p  id="sectionText">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda omnis, vero voluptates officia. Ea asperiores dignissimos, dolor, exercitationem voluptas vel iure. Inventore ipsa doloremque illo cum id dolore vitae obcaecati. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt hic numquam, doloribus culpa iusto magni dolores quaerat molestias nulla ad officia ullam voluptatum nihil rem perferendis dolore a, iure Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia nisi, asperiores laboriosam a error, tempora quae labore voluptas ipsa temporibus facere dolores neque. Doloribus, rem illum commodi repudiandae, porro id!
-            </p>
-            <img src="https://picsum.photos/200/300">
+        <section class="container">
+            <div class="row">
+                <div class="col-9">
+                    <h1>Section Header</h1>
+                    <p  id="sectionText">
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda omnis, vero voluptates officia. Ea asperiores dignissimos, dolor, exercitationem voluptas vel iure. Inventore ipsa doloremque illo cum id dolore vitae obcaecati. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt hic numquam, doloribus culpa iusto magni dolores quaerat molestias nulla ad officia ullam voluptatum nihil rem perferendis dolore a, iure Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia nisi, asperiores laboriosam a error, tempora quae labore voluptas ipsa temporibus facere dolores neque. Doloribus, rem illum commodi repudiandae, porro id!
+                    </p>
+                </div>
+                <div class="col">
+                    <img src="https://picsum.photos/200/300">
+                </div>
+            </div>
         </section>
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    <h2 class="MoreAbout">More about Google:</h2>
+                </div>
+            </div>
+        </div>
         <div class="container">
             <div class="row">
                 <article class="col">
@@ -56,6 +69,39 @@
             </div>
         </div>
     </main>
+    <footer class="bg-light">
+        <div class="row">
+            <div class="col-3">
+                <img src="Images/googleIcon.png" id="googleIcon" alt="Google Icon">
+            </div>
+            <div class="col-9" id="references">
+                <h1>References:</h1>
+                <div class="row">
+                    <div class="col">
+                        <ol>
+                            <li>Koller, David. "Origin of the name, "Google." Archived 2012-07-04 at WebCite Stanford University. January, 2004.</li>
+                            <li></li>
+                            <li></li>
+                        </ol>
+                    </div>
+                    <div class="col">
+                        <ol start="4">
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                        </ol>
+                    </div>
+                    <div class="col">
+                        <ol start="7">
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                        </ol>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
 </body>
 
 </html>

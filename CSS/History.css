@@ -1,6 +1,6 @@
-#officeImg{
-    margin-left:30%;
-    width:50%;
+#foundersImage{
+    margin-left:20%;
+    width:60%;
 }
 
 #sectionText{
@@ -8,10 +8,11 @@
     float:left;
 }
 
-#googlePlex{
+#ericSchmidt{
     width:100%;
-    margin-top: 60%;
+
 }
+
 
 section{
     margin-top:20px;
@@ -28,9 +29,4 @@ article{
 
 #references{
     font-size: 12px;
-    font-style: italic;
-}
-
-#references h1{
-    font-size:20px;
 }
