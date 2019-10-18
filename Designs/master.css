@@ -11,7 +11,11 @@ header{
 
 main{
     margin:auto;
-    width:80%;  
+    width:60%;
+}
+
+img{
+    margin-right:10px;
 }
 
 footer{
@@ -19,11 +23,7 @@ footer{
     font-size: 20px;
 }
 
-#googleLogo{
-   max-width:10%;
-}
-
-#googleIcon{
-    max-width:30%;
-    margin:20%;
+#sectionText{
+    width:80%;
+    float: left;
 }
