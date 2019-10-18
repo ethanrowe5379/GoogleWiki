@@ -6,45 +6,24 @@ body{
 
 header{
     font-size: 20px;
-    font-weight: bold;
+    font-weight:bold;
 }
 
 main{
-    margin: auto;
-    width: 60%;
+    margin:auto;
+    width:80%;
 }
 
-section{
-  margin-top: 20px;
-  margin-bottom: 20px;
+footer{
+    padding:10px;
+    font-size: 20px;
 }
 
-img{
-    margin-right:10px;
+#googleLogo{
+   max-width:10%;
 }
 
-.sectionText p{
-    width: 80%;
-    float: left;
-}
-
-h1{
-  font-size: 300%;
-}
-/*
- * 200% = default size for h2
- */
-
-.MoreAbout{
-  margin-top: 2px;
-  margin-bottom: 10px;
-  border-bottom: solid;
-  border-top: solid;
-  border-width: thin;
-  padding-top: 10px;
-  padding-bottom: 10px;
-}
-
-.PageLink{
-  color: inherit;
+#googleIcon{
+    max-width:30%;
+    margin:20%;
 }
