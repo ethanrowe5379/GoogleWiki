@@ -27,3 +27,13 @@ footer{
     max-width:30%;
     margin:20%;
 }
+
+#references{
+    font-size: 12px;
+    font-style: italic;
+}
+
+#references h1{
+    font-size:20px;
+}
+
