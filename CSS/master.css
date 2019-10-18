@@ -23,6 +23,20 @@ footer{
    max-width:10%;
 }
 
+#googleIcon{
+    margin: 50%;
+    max-width:50%;
+}
+
+#references{
+    font-size: 12px;
+    font-style: italic;
+}
+
+#references h1{
+    font-size:20px;
+}
+
 .tooltap{
     position: relative;
     display: inline;
