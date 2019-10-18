@@ -11,24 +11,19 @@ header{
 
 main{
     margin:auto;
-    width:60%;
+    width:80%;  
 }
 
-img{
-    margin-right:10px;
+footer{
+    padding:10px;
+    font-size: 20px;
 }
 
-.sectionText p{
-    width:80%;
-    float: left;
+#googleLogo{
+   max-width:10%;
 }
 
-h1{
-  font-size: 300%;
-}
-/*
- * 200% = default size for h2
- */
-h2{
-  font-size: 200%
+#googleIcon{
+    max-width:30%;
+    margin:20%;
 }
