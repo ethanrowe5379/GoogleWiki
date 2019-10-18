@@ -1,0 +1,12 @@
+  
+.sectionText p{
+    width:80%;
+    float: left;
+}
+
+h1{
+  font-size: 300%;
+}
+/*
+ * 200% = default size for h2
+ */
