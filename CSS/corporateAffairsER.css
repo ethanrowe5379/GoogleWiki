@@ -3,7 +3,6 @@
     width:50%;
 }
 
-
 #sectionText{
     width:60%;
     float:left;
@@ -14,11 +13,24 @@
     margin-top: 60%;
 }
 
-
 section{
     margin-top:20px;
 }
 
 article{
     margin-top:20px;
+}
+
+#googleIcon{
+    max-width:40%;
+    margin:25%;
+}
+
+#references{
+    font-size: 12px;
+    font-style: italic;
+}
+
+#references h1{
+    font-size:20px;
 }
