@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+header{
+    font-size: 20px;
+    font-weight:bold;
+}
+
+main{
+    margin:auto;
+    width:80%;
+}
+
+footer{
+    padding:10px;
+    font-size: 20px;
+}
+
+#googleLogo{
+   max-width:10%;
+}
+
+#googleIcon{
+    max-width:30%;
+    margin:20%;
+}
